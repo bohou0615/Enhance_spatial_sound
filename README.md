@@ -1,1 +1,1 @@
-# Enhance_spatial_sound
+# Enhance spatial sound of stereo audio by upmixing
